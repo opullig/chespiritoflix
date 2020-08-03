@@ -1,0 +1,83 @@
+{
+  "categorias": [
+    {
+      "titulo": "Chaves",
+      "link": "http://www.forumchaves.com.br/",
+      "cor": "#67C400",
+      "link_extra": {
+        "text": "Fórum Chaves",
+        "url": "http://www.forumchaves.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "O Primo do Seu Madruga (1975)",
+          "url": "https://www.youtube.com/watch?v=Z8TCE1d1RvU"
+        },
+        {
+          "titulo": "Os Austronautas",
+          "url": "https://www.youtube.com/watch?v=3oTKLsExVwQ"
+        },
+        {
+          "titulo": "O Futebol Americano",
+          "url": "https://www.youtube.com/watch?v=YShxi4iVbO0"
+        },
+        {
+          "titulo": "O Homem Invisível (1974)",
+          "url": "https://www.youtube.com/watch?v=LbEwwoyxkJs"
+        },
+        {
+          "titulo": "Tempestade em Balde D'Água",
+          "url": "https://www.youtube.com/watch?v=zvcUyCFrIiY"
+        },
+        {
+          "titulo": "O Filme de Terro (1976)",
+          "url": "https://www.youtube.com/watch?v=omkrIhYdqcg"
+        },
+        {
+          "titulo": "A Chirimoia (1978)",
+          "url": "https://www.youtube.com/watch?v=GPzLezJaNRo"
+        }        
+      ]
+    },
+    {
+      "titulo": "Chapolin",
+      "cor": "red",
+      "link_extra": {
+        "text": "Fórum Chaves",
+        "url": "http://www.forumchaves.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "O Vazamento de Gás (1976)",
+          "url": "https://www.youtube.com/watch?v=QtWznfoD-Yo"
+        },
+        {
+          "titulo": "O Abominável homem das Neves (1976)",
+          "url": "https://www.youtube.com/watch?v=gQsiLermoKE"
+        },
+        {
+          "titulo": "Operação Tripa Seca (1976)",
+          "url": "https://www.youtube.com/watch?v=zpVr4gWonw4"
+        },
+        {
+          "titulo": "Folclore Japonês (1973)",
+          "url": "https://www.youtube.com/watch?v=3MSydAewAsI"
+        }
+      ]
+    },
+    {
+      "titulo": "Los Caquitos",
+      "cor": "Orange",
+      "link_extra": {
+        "text": "Fórum Chaves",
+        "url": "http://www.forumchaves.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "Peterete e Beterraba",
+          "url": "https://www.youtube.com/watch?v=elHTdDvD8WM"
+        }
+      ]
+    }
+  ]
+}
