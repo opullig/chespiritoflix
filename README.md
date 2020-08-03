@@ -1,2 +1,2 @@
-# opulligflix
+# ChespiritoFlix
 Imersao React Native da Alura
