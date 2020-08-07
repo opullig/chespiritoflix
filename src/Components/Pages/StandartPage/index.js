@@ -1,18 +1,30 @@
 import React from 'react';
-import { Children } from 'react';
+import Styled from 'styled-components';
 
 import Menu from '../../Menu';
 import Footer from '../../Footer';
 
 
-function standartPage(){
+const Main = Styled.main`
+    background-color: var(--black);
+    color: var(--white);
+    flex: 1;
+    padding-top: var(--bodyPaddingTop);
+    padding-left: .75%;
+    padding-right: .75%;
+`;
+
+
+function standartPage({ children }){
     return (
         <>
         <Menu />
-         {Children}
+        <Main>
+         {children}
+        </Main>
         <Footer />
         </>
     )
 }
 
-export default standartPage();
+export default standartPage;

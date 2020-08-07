@@ -20,4 +20,5 @@ const Button = Styled.button`
     opacity: .5;
   
 `;
-export default Button
+
+ export default Button;
